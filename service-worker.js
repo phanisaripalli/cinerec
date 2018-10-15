@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/phanisaripalli/cinerec/precache-manifest.8b1f869fb5ac2d717eecbee24349e9f4.js"
+  "/cinerec/precache-manifest.3a8e70a4e688f97c980420b5dbc2eb5a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/phanisaripalli/cinerec/index.html", {
+workbox.routing.registerNavigationRoute("/cinerec/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
