@@ -1,7 +1,7 @@
 {
   "main.css": "/cinerec/static/css/main.14f2000f.chunk.css",
-  "main.js": "/cinerec/static/js/main.a81db2a5.chunk.js",
-  "main.js.map": "/cinerec/static/js/main.a81db2a5.chunk.js.map",
+  "main.js": "/cinerec/static/js/main.2687c247.chunk.js",
+  "main.js.map": "/cinerec/static/js/main.2687c247.chunk.js.map",
   "static/css/1.62f561c9.chunk.css": "/cinerec/static/css/1.62f561c9.chunk.css",
   "static/js/1.368b0044.chunk.js": "/cinerec/static/js/1.368b0044.chunk.js",
   "static/js/1.368b0044.chunk.js.map": "/cinerec/static/js/1.368b0044.chunk.js.map",
@@ -11,6 +11,6 @@
   "static/media/logo.svg": "/cinerec/static/media/logo.5d5d9eef.svg",
   "static/css/1.62f561c9.chunk.css.map": "/cinerec/static/css/1.62f561c9.chunk.css.map",
   "index.html": "/cinerec/index.html",
-  "precache-manifest.eb728d1fea13c2c63363286c8dcd8d7f.js": "/cinerec/precache-manifest.eb728d1fea13c2c63363286c8dcd8d7f.js",
+  "precache-manifest.dbc12e723bf2ba8778fb4b4361b7e01c.js": "/cinerec/precache-manifest.dbc12e723bf2ba8778fb4b4361b7e01c.js",
   "service-worker.js": "/cinerec/service-worker.js"
 }
