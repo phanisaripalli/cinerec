@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/cinerec/static/js/runtime~main.a0c0a0e6.js"
   },
   {
-    "revision": "2687c2476b53d9c54a29",
-    "url": "/cinerec/static/js/main.2687c247.chunk.js"
+    "revision": "c31f8dbd503ae875a92e",
+    "url": "/cinerec/static/js/main.c31f8dbd.chunk.js"
   },
   {
     "revision": "368b0044c805f16f2565",
     "url": "/cinerec/static/js/1.368b0044.chunk.js"
   },
   {
-    "revision": "2687c2476b53d9c54a29",
-    "url": "/cinerec/static/css/main.14f2000f.chunk.css"
+    "revision": "c31f8dbd503ae875a92e",
+    "url": "/cinerec/static/css/main.b6594c85.chunk.css"
   },
   {
     "revision": "368b0044c805f16f2565",
     "url": "/cinerec/static/css/1.62f561c9.chunk.css"
   },
   {
-    "revision": "cccc7fc81aae8f00a0dae42fb78838c5",
+    "revision": "5664d918af163cbb50a0823f17824327",
     "url": "/cinerec/index.html"
   }
 ];
